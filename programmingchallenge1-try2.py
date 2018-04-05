@@ -6,7 +6,7 @@ wordobj = open("wordlist.txt", "r+")
 wordlist = wordobj.read()
 scrambledwords = []
 for i in range(10):
-    inp = str(input("enter the shit: "))
+    inp = str(input("enter the given words: "))
     scrambledwords.append(inp)
 
 for item in scrambledwords:
