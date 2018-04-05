@@ -1,4 +1,4 @@
-# This is my second try for the programming challenge 2
+# This is my second try for the programming challenge 1
 # Idea credits for Stuart Moore
 import os
 
